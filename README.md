@@ -16,7 +16,7 @@ This repository contains the LabVIEW LLM Libraries, including packages and examp
 # Getting Started
 1. **Download and Install:** Access the latest version of the LabVIEW LLMs Package from the Releases section of this repository.
 2. **Explore Examples:** Use the examples provided in this repository to perform data vectorization and create custom chat applications.
-
+3. **Supported LabVIEW Version:** >=2020 
 
 # Models supported
 
@@ -59,3 +59,5 @@ This repository contains the LabVIEW LLM Libraries, including packages and examp
 | Weviate | Weaviate | No | Offline |  |
 | Qdrant | Qdrant | Yes | Offline | [qdrant setup](https://qdrant.tech/documentation/quickstart/) |
 
+# Support
+If you encounter any issues while using the LabVIEW LLM Libraries or have suggestions or feature recommendations, please share your feedback in the Issues section of this GitHub repository.
